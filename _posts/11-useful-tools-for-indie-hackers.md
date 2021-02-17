@@ -10,14 +10,17 @@ ogImage:
   url: "https://blog.surveywave.xyz/assets/blog/11-useful-tools-for-indie-hackers/cover-image.jpeg"
 ---
 
-> First of, these 11 tools are Canva, Excalidraw, Veed, Lofi Music, Pixlr, Dribble, Pexels, Todoist, Google Trends, Youtube Audio Library, ShareX
+<div class="bg-gray-100 border-l-4 border-black p-1 pl-8 leading-loose  mt-10 mb-8 rounded-r-md">
 
-   <br />
+First of, these 11 tools are <a  class="no-underline hover:underline text-purple-500" href="https://excalidraw.com/">Excalidraw</a>, <a  class="no-underline hover:underline text-purple-500" href="https://www.canva.com/">Canva</a>, <a  class="no-underline hover:underline text-purple-500" href="https://www.veed.io/">Veed</a>, Lofi Music, Pixlr, Dribble, Pexels, Todoist, Google Trends, Youtube Audio Library and ShareX.
+
+</div>
 
 Here's a more depth look into these tools:
 
 <div class="grid grid-cols-1 gap-20">
 
+<!-- 1 -->
 <div>
     <h3 class="font-bold" target="_blank" rel="noopener noreferrer">1. <a  class="hover:underline font-bold" href="https://excalidraw.com/" title="excalidraw link">Excalidraw</a></h3>
     <div  class="p-1 pl-10 mt-10 bg-red-200 bg-opacity-25 rounded-md"><ul class="list-disc">
@@ -27,6 +30,8 @@ Here's a more depth look into these tools:
       </ul></div>
 </div>
 
+<!-- 2 -->
+
 <div>
     <h3 class="font-bold" target="_blank" rel="noopener noreferrer">2. <a  class="hover:underline font-bold" href="https://www.veed.io/" title="excalidraw link">Veed</a></h3>
     <div  class="p-1 pl-10 mt-10 bg-gray-300 bg-opacity-25 rounded-md"><ul class="list-disc">
@@ -35,6 +40,8 @@ Here's a more depth look into these tools:
         <li class="pt-1.5 pb-1.5">Has a limited free version with watermark</li>
       </ul></div>
 </div>
+
+<!-- 3 -->
 
 <div>
     <h3 class="font-bold" target="_blank" rel="noopener noreferrer">3. <a  class="hover:underline font-bold" href="https://www.canva.com/" title="excalidraw link">Canva</a></h3>
