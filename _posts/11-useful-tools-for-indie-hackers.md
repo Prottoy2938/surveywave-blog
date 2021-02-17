@@ -16,13 +16,13 @@ First of, these 11 tools are <a  class="no-underline hover:underline text-purple
 
 </div>
 
-Here's a more depth look into these tools:
+<p>Here's a more depth look into these tools:</p>
 
 <div class="grid grid-cols-1 gap-20">
 
 <!-- 1 -->
 <div>
-    <h3 class="font-bold" target="_blank" rel="noopener noreferrer">1. <a  class="hover:underline font-bold" href="https://excalidraw.com/" title="excalidraw link">Excalidraw</a></h3>
+    <h3 class="font-bold" >1. <a target="_blank" rel="noopener noreferrer" class="hover:underline font-bold" href="https://excalidraw.com/" title="excalidraw link">Excalidraw</a></h3>
     <div  class="p-1 pl-10 mt-10 bg-red-200 bg-opacity-25 rounded-md"><ul class="list-disc">
         <li class="pt-1.5 pb-1.5">For drawing online, with all the necessary tools</li>
         <li class="pt-1.5 pb-1.5"><a href="https://github.com/excalidraw/excalidraw" title="github source" class="hover:underline text-purple-600">Opensource</a></li>
@@ -33,7 +33,7 @@ Here's a more depth look into these tools:
 <!-- 2 -->
 
 <div>
-    <h3 class="font-bold" target="_blank" rel="noopener noreferrer">2. <a  class="hover:underline font-bold" href="https://www.veed.io/" title="excalidraw link">Veed</a></h3>
+    <h3 class="font-bold">2. <a  target="_blank" rel="noopener noreferrer" class="hover:underline font-bold" href="https://www.veed.io/" title="excalidraw link">Veed</a></h3>
     <div  class="p-1 pl-10 mt-10 bg-gray-300 bg-opacity-25 rounded-md"><ul class="list-disc">
         <li class="pt-1.5 pb-1.5">Online video editor, easy to get started and use in the browser</li>
         <li class="pt-1.5 pb-1.5">Can collaborate with teams, transcribe audio and other features too</li>
@@ -44,23 +44,37 @@ Here's a more depth look into these tools:
 <!-- 3 -->
 
 <div>
-    <h3 class="font-bold" target="_blank" rel="noopener noreferrer">3. <a  class="hover:underline font-bold" href="https://www.canva.com/" title="excalidraw link">Canva</a></h3>
+    <h3 class="font-bold">3. <a  target="_blank" rel="noopener noreferrer" class="hover:underline font-bold" href="https://www.canva.com/" title="excalidraw link">Canva</a></h3>
     <div  class="p-1 pl-10 mt-10 bg-purple-300 bg-opacity-25 rounded-md"><ul class="list-disc">
         <li class="pt-1.5 pb-1.5">Can create anything from postcard, wallpaper to Instagram story</li>
-        <li class="pt-1.5 pb-1.5">Has tons of features</li>
+        <li class="pt-1.5 pb-1.5">Has tons of <a href="https://www.canva.com/features/" class="hover:underline text-purple-600">features</a> </li>
         <li class="pt-1.5 pb-1.5">Easy to Use, readymade template and has a free version</li>
+      </ul></div>
+</div>
+
+<div>
+    <h3 class="font-bold">4. Lofi Music</h3>
+    <div  class="p-1 pl-10 mt-10 bg-red-500 bg-opacity-25 rounded-md"><ul class="list-disc">
+        <li class="pt-1.5 pb-1.5">For productivity</li>
+        <li class="pt-1.5 pb-1.5">Could find it on
+        <a href="https://www.youtube.com/watch?v=7zMyA_a5rSU" class="italic hover:underline text-purple-600" >Youtube</a>
+         ,
+        <a href="https://open.spotify.com/playlist/2Rpseqs408BsH2XesNtN3o" class="italic hover:underline text-purple-600">Spotify</a>
+      and other platforms</li>
+      </ul></div>
+</div>
+
+<div>
+    <h3 class="font-bold" target="_blank" rel="noopener noreferrer">5. <a  class="hover:underline font-bold" href="https://pixlr.com/" title="excalidraw link">Pixlr</a></h3>
+    <div  class="p-1 pl-10 mt-10 bg-blue-300 bg-opacity-25 rounded-md"><ul class="list-disc">
+        <li class="pt-1.5 pb-1.5">Online photo editor</li>
+        <li class="pt-1.5 pb-1.5">Fast and easy to use </li>
+        <li class="pt-1.5 pb-1.5">Has a generous free plan. The free plan includes all the basic tool and some of the advanced tools too. Would fulfil most peoples need.</li>
       </ul></div>
 </div>
 
 <!--
 
-3. [**Canva**](https://www.canva.com/)
-
-   - Can create anything from postcard, wallpaper to Instagram story
-   - Has tons of features
-   - Easy to Use, readymade template and has a free version
-
-   <br />
 
 4. **Lofi Music**
 
