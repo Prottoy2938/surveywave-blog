@@ -12,7 +12,7 @@ ogImage:
 
 <div class="bg-gray-100 border-l-4 border-black p-1 pl-8 leading-loose  mt-10 mb-8 rounded-r-md">
 
-First of, these 11 tools are <a  class="no-underline hover:underline text-purple-500" href="https://excalidraw.com/">Excalidraw</a>, <a  class="no-underline hover:underline text-purple-500" href="https://www.canva.com/">Canva</a>, <a  class="no-underline hover:underline text-purple-500" href="https://www.veed.io/">Veed</a>,<a class="no-underline hover:underline text-purple-500" href="https://www.youtube.com/watch?v=7zMyA_a5rSU"> Lofi Music</a>, <a class="no-underline hover:underline text-purple-500" href="https://pixlr.com/">Pixlr</a>,
+First of, these 11 tools are <a  class="no-underline hover:underline text-purple-500" href="https://excalidraw.com/">Excalidraw</a>, <a  class="no-underline hover:underline text-purple-500" href="https://www.canva.com/">Canva</a>, <a  class="no-underline hover:underline text-purple-500" href="https://www.veed.io/">Veed</a>, <a class="no-underline hover:underline text-purple-500" href="https://www.youtube.com/watch?v=7zMyA_a5rSU">Lofi Music</a>, <a class="no-underline hover:underline text-purple-500" href="https://pixlr.com/">Pixlr</a>,
 <a
 class="no-underline hover:underline text-purple-500"
 href="https://dribbble.com/"> Dribble</a>,
@@ -27,7 +27,7 @@ class="no-underline hover:underline text-purple-500"
 href="https://trends.google.com/"> Google Trends</a>,
 <a
 class="no-underline hover:underline text-purple-500"
-href="https://www.youtube.com/audiolibrary?feature=blog"> Youtube Audio Library</a>, and
+href="https://www.youtube.com/audiolibrary?feature=blog"> Youtube Audio Library</a> and
 <a
 class="no-underline hover:underline text-purple-500"
 href="https://getsharex.com/"> ShareX.</a>
