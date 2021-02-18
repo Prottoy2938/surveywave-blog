@@ -12,11 +12,29 @@ ogImage:
 
 <div class="bg-gray-100 border-l-4 border-black p-1 pl-8 leading-loose  mt-10 mb-8 rounded-r-md">
 
-First of, these 11 tools are <a  class="no-underline hover:underline text-purple-500" href="https://excalidraw.com/">Excalidraw</a>, <a  class="no-underline hover:underline text-purple-500" href="https://www.canva.com/">Canva</a>, <a  class="no-underline hover:underline text-purple-500" href="https://www.veed.io/">Veed</a>, Lofi Music, Pixlr, Dribble, Pexels, Todoist, Google Trends, Youtube Audio Library and ShareX.
+First of, these 11 tools are <a  class="no-underline hover:underline text-purple-500" href="https://excalidraw.com/">Excalidraw</a>, <a  class="no-underline hover:underline text-purple-500" href="https://www.canva.com/">Canva</a>, <a  class="no-underline hover:underline text-purple-500" href="https://www.veed.io/">Veed</a>,<a class="no-underline hover:underline text-purple-500" href="https://www.youtube.com/watch?v=7zMyA_a5rSU"> Lofi Music</a>, <a class="no-underline hover:underline text-purple-500" href="https://pixlr.com/">Pixlr</a>,
+<a
+class="no-underline hover:underline text-purple-500"
+href="https://dribbble.com/"> Dribble</a>,
+<a
+class="no-underline hover:underline text-purple-500"
+href="https://www.pexels.com/"> Pexels</a>,
+<a
+class="no-underline hover:underline text-purple-500"
+href="https://todoist.com/"> Todoist</a>,
+<a
+class="no-underline hover:underline text-purple-500"
+href="https://trends.google.com/"> Google Trends</a>,
+<a
+class="no-underline hover:underline text-purple-500"
+href="https://www.youtube.com/audiolibrary?feature=blog"> Youtube Audio Library</a>, and
+<a
+class="no-underline hover:underline text-purple-500"
+href="https://getsharex.com/"> ShareX.</a>
 
 </div>
 
-<p>Here's a more depth look into these tools:</p>
+<p class="pt-10">Here's a more depth look into these tools:</p>
 
 <div class="grid grid-cols-1 gap-20">
 
@@ -25,7 +43,7 @@ First of, these 11 tools are <a  class="no-underline hover:underline text-purple
     <h3 class="font-bold" >1. <a target="_blank" rel="noopener noreferrer" class="hover:underline font-bold" href="https://excalidraw.com/" >Excalidraw</a></h3>
     <div  class="p-1 pl-10 mt-10 bg-red-200 bg-opacity-25 rounded-md"><ul class="list-disc">
         <li class="pt-1.5 pb-1.5">For drawing online, with all the necessary tools</li>
-        <li class="pt-1.5 pb-1.5"><a href="https://github.com/excalidraw/excalidraw" title="github source" class="hover:underline text-purple-600">Opensource</a></li>
+        <li class="pt-1.5 pb-1.5"><a href="https://github.com/excalidraw/excalidraw" title="github source" class="hover:underline text-gray-600">Opensource</a></li>
         <li class="pt-1.5 pb-1.5">Fast and reliable</li>
       </ul></div>
 </div>
@@ -116,12 +134,33 @@ First of, these 11 tools are <a  class="no-underline hover:underline text-purple
 </div>
 
 <div>
-    <h3 class="font-bold">10. <a  class="hover:underline font-bold" href="https://getsharex.com/" >ShareX</a></h3>
+    <h3 class="font-bold">11. <a  class="hover:underline font-bold" href="https://getsharex.com/" >ShareX</a></h3>
     <div  class="p-1 pl-10 mt-10 bg-blue-300 bg-opacity-25 rounded-md"><ul class="list-disc">
-        <li class="pt-1.5 pb-1.5">  Record or capture screen</li>
-        <li class="pt-1.5 pb-1.5"> Has tons of other features as well</li>
-        <li class="pt-1.5 pb-1.5">Its <a href="https://github.com/ShareX/ShareXs/" class="hover:underline text-purple-600 italic">opensource</a> </li>
+        <li class="pt-1.5 pb-1.5">  Record or capture screen, for Windows</li>
+        <li class="pt-1.5 pb-1.5">Its <a href="https://github.com/ShareX/ShareXs/" class="hover:underline text-gray-600 italic">opensource</a> </li>
+        <li class="pt-1.5 pb-1.5">For other OS, try out 
+        <a href="https://getgreenshot.org/" class="hover:underline text-gray-600 ">GreenShot</a> or
+        <a href="https://app.prntscr.com/en/index.html" class="hover:underline text-gray-600 ">LightShot</a> 
+        </li>
+
  </ul></div>
+
+<div class="mt-12 leading-loose">
+<p>
+    There are also some other sites I often use such as
+    <a class="hover:underline font-semibold" href="https://title.sh">Title.sh</a>,
+<a class="hover:underline font-semibold" href="https://openai.com">OpenAI</a>,
+<a class="hover:underline font-semibold" href="https://www.farmer.com/motion">Farmer Motion</a>, <a class="hover:underline font-semibold" href="https://www.storyblocks.com">StoryBlock</a> etc.
+</p>
+<p class="pt-20">
+  If you have any feedback or suggestion, send it
+  <a href="mailto:svesp@protonmail.com" class="hover:underline italic text-gray-700"
+    >here</a
+  >.
+</p>
+
+</div>
+
 </div>
 
 <!--
